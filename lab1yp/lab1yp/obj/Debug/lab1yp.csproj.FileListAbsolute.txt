@@ -1,0 +1,14 @@
+E:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.exe.config
+E:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.exe
+E:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.pdb
+E:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.csprojResolveAssemblyReference.cache
+E:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.exe
+E:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.pdb
+D:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.exe.config
+D:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.exe
+D:\Учебная практика\lab1yp\lab1yp\bin\Debug\lab1yp.pdb
+D:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.csproj.AssemblyReference.cache
+D:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.csproj.SuggestedBindingRedirects.cache
+D:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.csproj.CoreCompileInputs.cache
+D:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.exe
+D:\Учебная практика\lab1yp\lab1yp\obj\Debug\lab1yp.pdb
